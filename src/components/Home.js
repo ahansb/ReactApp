@@ -14,7 +14,7 @@ function Home() {
                 </p>
                 <ul>
                     <li>
-                        <a href="/piano">
+                        <a href="/ReactApp/piano">
                             <strong>
                                 Piano
                             </strong>
