@@ -5,7 +5,6 @@ import pic1 from '../assets/piano-royal.jpg';
 function Home() {
     return (
         <div className="container">
-
             <h1>My React App</h1>
             <div className='content-wrapper'>
                 <p>
