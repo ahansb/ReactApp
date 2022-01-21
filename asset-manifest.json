@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactApp/static/css/main.2f73209c.css",
-    "main.js": "/ReactApp/static/js/main.b252cf4c.js",
+    "main.js": "/ReactApp/static/js/main.2db1e967.js",
     "static/js/787.edd59a96.chunk.js": "/ReactApp/static/js/787.edd59a96.chunk.js",
     "static/media/piano-royal.jpg": "/ReactApp/static/media/piano-royal.ac5b9d9aebb0123e7413.jpg",
     "static/media/Ds.mp3": "/ReactApp/static/media/Ds.2da2677130cf4f6ed3cf.mp3",
@@ -18,11 +18,11 @@
     "static/media/Fs.mp3": "/ReactApp/static/media/Fs.32d27ed8945e27fe6a79.mp3",
     "index.html": "/ReactApp/index.html",
     "main.2f73209c.css.map": "/ReactApp/static/css/main.2f73209c.css.map",
-    "main.b252cf4c.js.map": "/ReactApp/static/js/main.b252cf4c.js.map",
+    "main.2db1e967.js.map": "/ReactApp/static/js/main.2db1e967.js.map",
     "787.edd59a96.chunk.js.map": "/ReactApp/static/js/787.edd59a96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f73209c.css",
-    "static/js/main.b252cf4c.js"
+    "static/js/main.2db1e967.js"
   ]
 }
