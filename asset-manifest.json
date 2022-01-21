@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.2f73209c.css",
+    "main.js": "/ReactApp/static/js/main.c03cce57.js",
+    "static/js/787.edd59a96.chunk.js": "/ReactApp/static/js/787.edd59a96.chunk.js",
+    "static/media/piano-royal.jpg": "/ReactApp/static/media/piano-royal.ac5b9d9aebb0123e7413.jpg",
+    "static/media/Ds.mp3": "/ReactApp/static/media/Ds.2da2677130cf4f6ed3cf.mp3",
+    "static/media/As.mp3": "/ReactApp/static/media/As.532347f78f4202a5aa35.mp3",
+    "static/media/E.mp3": "/ReactApp/static/media/E.db0e3487a8e16cef81f3.mp3",
+    "static/media/B.mp3": "/ReactApp/static/media/B.77ad50c30ee0be3cba78.mp3",
+    "static/media/Gs.mp3": "/ReactApp/static/media/Gs.d774813d0ae502529913.mp3",
+    "static/media/A.mp3": "/ReactApp/static/media/A.4dda413a2d56d28f1242.mp3",
+    "static/media/D.mp3": "/ReactApp/static/media/D.6f8c3e40aaf7efb37075.mp3",
+    "static/media/F.mp3": "/ReactApp/static/media/F.556892c6e30a258fc0e5.mp3",
+    "static/media/C.mp3": "/ReactApp/static/media/C.8de28392c4763857cfae.mp3",
+    "static/media/Cs.mp3": "/ReactApp/static/media/Cs.fe32c9210c7650535064.mp3",
+    "static/media/G.mp3": "/ReactApp/static/media/G.33ee11f6136b554c2630.mp3",
+    "static/media/Fs.mp3": "/ReactApp/static/media/Fs.32d27ed8945e27fe6a79.mp3",
+    "index.html": "/ReactApp/index.html",
+    "main.2f73209c.css.map": "/ReactApp/static/css/main.2f73209c.css.map",
+    "main.c03cce57.js.map": "/ReactApp/static/js/main.c03cce57.js.map",
+    "787.edd59a96.chunk.js.map": "/ReactApp/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f73209c.css",
+    "static/js/main.c03cce57.js"
+  ]
+}
