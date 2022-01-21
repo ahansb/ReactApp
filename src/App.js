@@ -10,9 +10,9 @@ function App() {
     <div className="App">
       <AppNavbar />
       <Routes>
-        <Route path="/home" element={<Home />} />
-        <Route path="/piano" element={<Piano/>} />
-        <Route path="/about" element={<About/>} />
+        <Route path="ReactApp/home" element={<Home />} />
+        <Route path="ReactApp/piano" element={<Piano/>} />
+        <Route path="ReactApp/about" element={<About/>} />
       </Routes>
     </div>
   );
