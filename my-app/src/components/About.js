@@ -1,8 +1,12 @@
 import React from 'react';
+import FormPage from './FormPage';
 
 function About() {
     return (
-        <div>About is here</div>
+        <div className='container'>
+            About is here
+            <FormPage></FormPage>
+        </div>
     );
 }
 

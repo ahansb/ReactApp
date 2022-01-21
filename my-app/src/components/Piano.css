@@ -1,0 +1,16 @@
+.keys-down {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.keys-up-white {
+    border-left: 1px solid black;
+}
+
+.right-border {
+    border-right: 1px solid black;
+}
+
+.negative-marging {
+    margin-bottom: -6px;
+}

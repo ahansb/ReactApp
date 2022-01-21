@@ -1,0 +1,15 @@
+h1 {
+    background: grey;
+    width: 100%;
+    padding: 50px;
+    margin: 0px;
+}
+
+.content-wrapper {
+    background: lightgray;
+    padding: 2%;
+}
+
+ul {
+    list-style-type: none;
+}

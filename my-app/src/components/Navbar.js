@@ -1,11 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Nav, Navbar } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function AppNavbar() {
-    return (
-        <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+  return (
+    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Navbar.Brand href="/">
+        <i class="fas fa-graduation-cap"></i>
         My App
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -17,7 +18,7 @@ function AppNavbar() {
         </Nav>
       </Navbar.Collapse>
     </Navbar>
-    );
+  );
 }
 
 export default AppNavbar;
